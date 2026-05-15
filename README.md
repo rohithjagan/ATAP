@@ -7,7 +7,8 @@
 A colourful, safe, and **extremely simple** 2D frame‑by‑frame animation software designed for children aged 4‑8.  
 Built with **Python** and **PyQt5**, ATAP brings the joy of cartoon creation to preschoolers – no reading required, no complicated tools, just pure creative fun!
 
-![ATAP Screenshot](docs/screenshot.png) *(placeholder – add a real screenshot)*
+![ATAP Screenshot](<img width="1022" height="698" alt="image" src="https://github.com/user-attachments/assets/0567699f-2f78-4c68-8a5e-b9788ac5c008" />
+) 
 
 ## ✨ Why ATAP?
 - 🎨 **Kid‑first design** – huge buttons, emojis, rounded shapes, and a candy‑coloured interface.
