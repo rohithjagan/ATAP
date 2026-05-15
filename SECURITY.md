@@ -10,7 +10,7 @@ transmit any data, we still aim to follow secure development practices.
 If you discover a security vulnerability within ATAP, please **do not** open a
 public issue. Instead, send an email to:
 
-**security-atap@example.com**
+rohithjagan25@gmail.com
 
 We will respond within 48 hours and work with you to assess and fix the issue.
 We request that you keep the vulnerability confidential until we have released a
